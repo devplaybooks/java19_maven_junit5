@@ -126,6 +126,9 @@
                         <goals>
                             <goal>check</goal>
                         </goals>
+                        <configuration>
+                            <nvdApiKey>9d0b2741-9ee6-4dbc-8fde-f5669ed2074e</nvdApiKey>
+                        </configuration>
                     </execution>
                 </executions>
             </plugin>
