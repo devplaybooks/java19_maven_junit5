@@ -11,6 +11,7 @@
 ## Maven Plugins
 
 * [Checkstyle](https://checkstyle.org/)
+* [JaCoCo Code Coverage Library](https://www.jacoco.org/jacoco/)
 * [Maven Dependency Plugin](https://maven.apache.org/plugins/maven-dependency-plugin/)
 * [Maven Failsafe Plugin](https://maven.apache.org/surefire/maven-failsafe-plugin/)
 * [OWASP Dependency Check](https://jeremylong.github.io/DependencyCheck/general/internals.html)
